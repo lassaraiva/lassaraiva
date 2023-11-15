@@ -3,6 +3,7 @@
 - Thanks for stopping by, have a great day! 👋🏻
 
 ![lassaraiva's GitHub stats](https://github-readme-stats.vercel.app/api?username=lassaraiva&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lassaraiva&hide_progress=true&theme=dark)
  
 <h3 align="left">Languages and Tools:</h3>
