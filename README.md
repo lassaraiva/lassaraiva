@@ -23,4 +23,4 @@
 
 <h3 align="left">Connect with me:</h3>
 <div align="left"> <br> 
-  <a href="https://www.linkedin.com/in/larissa-saraiva-674513307/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/lassaraiva/"><img src="https://user-images.githubusercontent.com/58532023/171219303-8839f911-21bf-453f-b517-9dd6ef9a873c.png" alt="LinkedIn"/></a>
